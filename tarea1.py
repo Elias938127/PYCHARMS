@@ -1,0 +1,6 @@
+lista=("1,2,3,4,5,6,7,8,9,1,24,5,3,3,4,5,66,4,2")
+print(lista)
+conjunto=set(lista)
+lista= list(conjunto)
+print("numero sin repeticon")
+print(lista)
